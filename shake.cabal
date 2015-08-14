@@ -205,7 +205,6 @@ executable shake
         Development.Make.Rules
         Development.Make.Type
         Development.Ninja.All
-        Run
 
 
 test-suite shake-test
@@ -250,7 +249,6 @@ test-suite shake-test
         Development.Ninja.All
         Development.Ninja.Parse
         Development.Ninja.Type
-        Run
         Test.Type
         Test.Assume
         Test.Basic
